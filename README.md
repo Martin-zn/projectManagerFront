@@ -1,8 +1,19 @@
-# React + Vite
+# Front-end de Control de Proyectos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene el Front-end de una aplicación web para el control de proyectos, esta aplicacion fue creada basada en mi experiencia como administrador de obras de construccion.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tecnologias
+React, Redux, Router, Bootstrap
+
+
+## Descripción del Proyecto
+Este Front-end esta conectado con el back-end hecho anteriormente con java, este tiene la opcion de logearse o registrarse, y muestra los proyectos y las actividades donde estas participando.
+
+## Tecnologias
+
+ - [React](https://es.react.dev/)
+ - [Router](https://reactrouter.com/en/main)
+ - [Redux](https://react-redux.js.org/)
+
+
