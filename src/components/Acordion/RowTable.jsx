@@ -5,7 +5,7 @@ function RowTable({ activity }) {
         <tr>
             <td>{activity.name}</td>
             <td>{activity.description}</td>
-            <td>En proceso</td>
+            <td>{activity.estado}</td>
         </tr>
     )
 }
